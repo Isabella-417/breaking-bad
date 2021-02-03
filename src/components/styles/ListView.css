@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Bad+Script&display=swap");
+
+li {
+  list-style: none;
+}
+
+h1 {
+  color: #ffffff;
+  font-family: "Bad Script", cursive;
+  font-size: 5em;
+}
+
+div.container {
+  margin: 4em 5em;
+  text-align: center;
+}
+
+div.container ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+button.loadingButton {
+  padding: 2em;
+  background-color: #0d5334;
+  border-color: #0d5334;
+  border-style: solid;
+  color: white;
+  font-size: 1.4em;
+  padding: 1em;
+  width: 20%;
+}

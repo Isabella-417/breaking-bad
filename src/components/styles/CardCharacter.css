@@ -1,0 +1,28 @@
+section.CharacterCard {
+  margin: 1.3em;
+  position: relative;
+  width: 400px;
+}
+
+section.CharacterCard img {
+  border-radius: 15px;
+  height: 25em;
+  width: 100%;
+}
+
+section.CharacterCard figure {
+    margin: 0;
+}
+
+section.CharacterCard figure figcaption {
+    background-color: white;
+}
+
+section.CharacterCard div.NameContainer{
+    background-color: rgba(0, 0, 0, 0.7);
+    bottom: 0;
+    color: white;
+    font-size: 1em;
+    position: absolute;
+    width: 100%;
+}

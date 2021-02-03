@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --background-color-dark: #414141;
+  --font-family-default: "Lato";
+}
+
+body {
+  background-color: var(--background-color-dark);
+  font-family: var(--font-family-default);
+}
